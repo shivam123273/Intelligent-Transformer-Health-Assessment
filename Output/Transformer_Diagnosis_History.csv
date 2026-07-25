@@ -1,0 +1,2 @@
+Diagnosis_ID,Diagnosis_Time,Hydrogen,Oxigen,Nitrogen,Methane,CO,CO2,Ethylene,Ethane,Acethylene,DBDS,Power factor,Interfacial V,Dielectric rigidity,Water content,Thermal_Stress_Score,Oil_degradation_score,TDCG,Water_BDV_Ratio,Predicted_Health_Index,Health_Category,Engineering_Diagnosis,Maintenance_Recommendations
+D00001,2026-07-15 00:05:20,120,1800,62000,85,450,4200,40,22,1,18,0.35,42,58,16,147,0.18833226870066508,718,0.2758620642092748,91.68,Excellent,No significant degradation detected.,Continue routine monitoring and periodic oil testing.
