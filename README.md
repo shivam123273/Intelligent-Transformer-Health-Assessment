@@ -52,26 +52,26 @@ Intelligent-Transformer-Health-Assessment/
 ├── requirements.txt                                                                                
 │                                                                                                   
 ├── Data/                                                                                           
-│   ├── Health index.csv
-│   ├── Health_index_final.csv
-│   └── transformer_features_final.csv
-│
-├── Models/
-│   ├── RandomForest_HealthIndex.pkl
-│   ├── scaler.pkl
-│   └── model_features.pkl
-│
-├── Notebooks/
-│   ├── 01_Data_Cleaning.ipynb
-│   ├── 02_EDA.ipynb
-│   ├── 03_Feature_Engineering.ipynb
-│   ├── 04_Machine_Learning.ipynb
-│   ├── 05_Model_Inference.ipynb
-│   └── 06_Maintenance_Optimization.ipynb
-│
-├── Output/
-│   └── Transformer_Diagnosis_History.csv
-│
+│   ├── Health index.csv                                                                            
+│   ├── Health_index_final.csv                                                                      
+│   └── transformer_features_final.csv                                                              
+│                                                                                                   
+├── Models/                                                                                         
+│   ├── RandomForest_HealthIndex.pkl                                                                
+│   ├── scaler.pkl                                                                                  
+│   └── model_features.pkl                                                                          
+│                                                                                                   
+├── Notebooks/                                                                                      
+│   ├── 01_Data_Cleaning.ipynb                                                                      
+│   ├── 02_EDA.ipynb                                                                                
+│   ├── 03_Feature_Engineering.ipynb                                                                
+│   ├── 04_Machine_Learning.ipynb                                                                   
+│   ├── 05_Model_Inference.ipynb                                                                    
+│   └── 06_Maintenance_Optimization.ipynb                                                           
+│                                                                                                   
+├── Output/                                                                                         
+│   └── Transformer_Diagnosis_History.csv                                                           
+│                                                                                                   
 └── Images/
 
 # Machine Learning Pipeline
