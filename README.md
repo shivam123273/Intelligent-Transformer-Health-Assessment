@@ -46,7 +46,6 @@ The framework integrates Data Analytics, Machine Learning, Explainable AI, and O
 
 # Project Structure
 
-```
 Intelligent-Transformer-Health-Assessment/
 │
 ├── README.md
@@ -98,9 +97,8 @@ The final selected model is **Random Forest Regression**, which demonstrated the
 >
 > Save your **Actual vs Predicted Plot** or **Model Comparison Table** as:
 >
-> `images/model comparison table.png`
+> images/model comparison table.png
 
-```markdown
 <p align="center">
   <img src="images/model comparison table.png" width="700">
 </p>
