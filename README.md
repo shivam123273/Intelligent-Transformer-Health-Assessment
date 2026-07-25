@@ -139,13 +139,13 @@ The objective is to maximize maintenance priority while satisfying all operation
 ### Optimization Output
 
 <p align="center">
-  <img src="Images/Optimization Reult table.png" width="400">
+  <img src="Images/Optimization Reult table.png" width="300">
 </p>
 
 ### Selected Transformers 
 
 <p align="center">
-  <img src="Images/selected transformers.png" width="300">
+  <img src="Images/selected transformers.png" width="200">
 </p>
 
 ---
