@@ -280,7 +280,7 @@ For every new transformer, the system generates:
 ### Sample Diagnosis Report
 
 <p align="center">
-  <img src="Images/diagnosis report.png" width="900">
+  <img src="Images/diagnosis report.png" width="600">
 </p>
 
 ---
