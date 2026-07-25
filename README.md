@@ -41,7 +41,7 @@ The framework integrates Data Analytics, Machine Learning, Explainable AI, and O
 
 # Project Workflow
 <p align="center">
-  <img src="Images/project_workflow.png" width="500">
+  <img src="Images/project_workflow.png" width="450">
 </p>
 
 # Project Structure
@@ -94,11 +94,11 @@ The final selected model is **Random Forest Regression**, which demonstrated the
 ### Model Performance
 
 <p align="center">
-  <img src="Images/model comparison table.png" width="400">
+  <img src="Images/model comparison table.png" width="50">
 </p>
 
 <p align="center">
-  <img src="Images/Actual vs Predicted.png" width="400">
+  <img src="Images/Actual vs Predicted.png" width="500">
 </p>
 
 # Explainable AI using SHAP
