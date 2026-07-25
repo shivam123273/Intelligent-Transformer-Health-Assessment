@@ -47,11 +47,11 @@ The framework integrates Data Analytics, Machine Learning, Explainable AI, and O
 # Project Structure
 
 Intelligent-Transformer-Health-Assessment/
-│
-├── README.md
-├── requirements.txt
-│
-├── Data/
+│                                                                                                   
+├── README.md                                                                                       
+├── requirements.txt                                                                                
+│                                                                                                   
+├── Data/                                                                                           
 │   ├── Health index.csv
 │   ├── Health_index_final.csv
 │   └── transformer_features_final.csv
