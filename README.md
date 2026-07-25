@@ -41,7 +41,7 @@ The framework integrates Data Analytics, Machine Learning, Explainable AI, and O
 
 # Project Workflow
 <p align="center">
-  <img src="images/project_workflow.png" width="900">
+  <img src="Images/project_workflow.png" width="900">
 </p>
 
 # Project Structure
@@ -94,11 +94,11 @@ The final selected model is **Random Forest Regression**, which demonstrated the
 ### Model Performance
 
 <p align="center">
-  <img src="images/model comparison table.png" width="700">
+  <img src="Images/model comparison table.png" width="700">
 </p>
 
 <p align="center">
-  <img src="images/Actual vs Predicted.png" width="700">
+  <img src="Images/Actual vs Predicted.png" width="700">
 </p>
 
 # Explainable AI using SHAP
@@ -115,13 +115,13 @@ The SHAP module provides:
 ### SHAP Summary Plot
 
 <p align="center">
-  <img src="images/SHAP Summary Plot.png" width="800">
+  <img src="Images/SHAP Summary Plot.png" width="800">
 </p>
 
 ### SHAP Waterfall Plot
 
 <p align="center">
-  <img src="images/SHAP Waterfall Plot.png" width="800">
+  <img src="Images/SHAP Waterfall Plot.png" width="800">
 </p>
 
 # Maintenance Optimization
@@ -139,13 +139,13 @@ The objective is to maximize maintenance priority while satisfying all operation
 ### Optimization Output
 
 <p align="center">
-  <img src="images/Optimization Reult table.png" width="400">
+  <img src="Images/Optimization Reult table.png" width="400">
 </p>
 
 ### Selected Transformers 
 
 <p align="center">
-  <img src="images/selected transformers.png" width="300">
+  <img src="Images/selected transformers.png" width="300">
 </p>
 
 ---
@@ -280,7 +280,7 @@ For every new transformer, the system generates:
 ### Sample Diagnosis Report
 
 <p align="center">
-  <img src="images/diagnosis report.png" width="900">
+  <img src="Images/diagnosis report.png" width="900">
 </p>
 
 ---
