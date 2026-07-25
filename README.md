@@ -40,7 +40,9 @@ The framework integrates Data Analytics, Machine Learning, Explainable AI, and O
 | Model Serialization | Joblib |
 
 # Project Workflow
-
+<p align="center">
+  <img src="images/project_workflow.png" width="900">
+</p>
 
 
 
