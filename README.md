@@ -13,3 +13,35 @@ This project develops an intelligent decision-support framework that:
 - Optimizes maintenance planning using **Binary Integer Programming (BIP)**
 
 The framework integrates Data Analytics, Machine Learning, Explainable AI, and Operations Research into a single predictive maintenance workflow.
+
+## Key Features
+
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Domain-Specific Feature Engineering
+- Random Forest Regression for Health Index Prediction
+- SHAP Explainability for Model Interpretation
+- Root Cause Analysis
+- Automated Maintenance Recommendations
+- Binary Integer Programming (BIP) for Maintenance Optimization
+- Automated Diagnosis Report Generation
+
+## Technology Stack
+
+| Category | Tools & Libraries |
+|----------|------------------|
+| Programming | Python |
+| Database | PostgreSQL |
+| Data Processing | Pandas, NumPy |
+| Machine Learning | Scikit-learn |
+| Explainable AI | SHAP |
+| Optimization | PuLP |
+| Visualization | Matplotlib |
+| Model Serialization | Joblib |
+
+# Project Workflow
+
+<p align="center">
+  <img src="images/project_workflow.png" width="900">
+</p>
+
