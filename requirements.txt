@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+xgboost
+shap
+joblib
+psycopg2-binary
+sqlalchemy
+pulp
