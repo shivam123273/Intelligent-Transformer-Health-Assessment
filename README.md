@@ -145,7 +145,7 @@ The objective is to maximize maintenance priority while satisfying all operation
 ### Selected Transformers 
 
 <p align="center">
-  <img src="Images/selected transformers.png" width="200">
+  <img src="Images/selected transformers.png" width="150">
 </p>
 
 ---
